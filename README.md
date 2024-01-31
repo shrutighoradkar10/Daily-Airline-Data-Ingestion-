@@ -37,9 +37,12 @@ Key AWS Services:
 
     The Glue job uploads the processed data into a Redshift table for deriving meaningful business insights.
 
-Advantages:
+## Advantages:
 
     Automation: The entire workflow is automated, minimizing manual intervention.
+    
     Scalability: Utilizes serverless components for scalability and cost-effectiveness.
+    
     Maintainability: Clearly defined steps and AWS services enhance project maintainability.
+    
     Analytical Power: Leverages Redshift for efficient storage and querying of airline data.
